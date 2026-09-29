@@ -19,9 +19,8 @@ This project estimates both trapping mechanisms directly from real, imaged pore-
  - Reconstruction domain volume (8.02 x 5.48 x 2.1 um): from the same PerGeos characterization, used as the default target volume for reporting absolute storage mass
 
 ## Results
-Run against the same real 20 slice FIB-SEM dataset, 200 Monte Carlo realizations:                                                                                       
-**- CO2 storage intensity:** 0.102 tonnes CO2/m^3 rock most likely (0.076 conservative to 0.142 optimistic). Wider than permeability's range, consistent with recovery factor's known sensitivity to pore arrangement, since both share the same breakthrough-based logic.
-  - Both free-phase (pore space) and adsorbed-phase (kerogen-surface) trapping mechanisms actively contribute, using the real, directly-measured 13.2% kerogen volume fraction rather than a density-derived estimate.
+Run against the same real 20 slice FIB-SEM dataset, 200 Monte Carlo realizations:                                                                                       - CO2 storage intensity: 0.102 tonnes CO2/m^3 rock most likely (0.076 conservative to 0.142 optimistic). Wider than permeability's range, consistent with recovery factor's known sensitivity to pore arrangement, since both share the same breakthrough-based logic.
+- Both free-phase (pore space) and adsorbed-phase (kerogen-surface) trapping mechanisms actively contribute, using the real, directly-measured 13.2% kerogen volume fraction rather than a density-derived estimate.
 
 ## Tech stack
 Python (Numpy, OpenPNM, PoreSpy, CoolProp for CO2 thermodynamic properties at reservoir conditions).
