@@ -1,4 +1,4 @@
-# CO2-Storage-Capacity-Estimation-in-Lower-Eagle-Ford-Kerogen-Nanopores
+## CO2-Storage-Capacity-Estimation-in-Lower-Eagle-Ford-Kerogen-Nanopores
 An image-derived alternative to the standard DOE/NETL volumetric method for estimating CO2 storage capacity in organic-rich shale, built on the pore-scale simulation pipeline from my Lower Eagle Ford (LEF) nanopore flow project.
 
 ## Background
